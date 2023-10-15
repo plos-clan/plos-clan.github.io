@@ -29,7 +29,7 @@ Linuxer在此基础上希望可以让更多人参与网站搭（整）建（活�
 * [fw萌新](https://github.com/CdsOCjpW)
 * [yywd](https://github.com/yywd123)
 * XIAOYI1212（将会在后续加入开发）
-* 神都服主拿高分
+* [神都服主拿高分](https://github.com/Sdfzngf/)
 * [wenxuanjun](https://github.com/wenxuanjun)
 * [Linuxer](https://github.com/CLimber-Rong)
 
