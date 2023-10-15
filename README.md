@@ -25,7 +25,7 @@ Linuxer在此基础上希望可以让更多人参与网站搭（整）建（活�
 <br><br>
 
 ## 开发者们
-* min0911_
+* [min0911_](https://github.com/min0911Y)
 * [fw萌新](https://github.com/CdsOCjpW)
 * [yywd](https://github.com/yywd123)
 * XIAOYI1212（将会在后续加入开发）
@@ -42,8 +42,8 @@ Linuxer在此基础上希望可以让更多人参与网站搭（整）建（活�
 * index.html：首页
 * src/：资源下载（包含pdf书籍和群主的os镜像）——Linuxer
 * jing/：逆天言论（精の传承）——Fw萌新
-* fun/：整活贴吧
-* ad/：推荐项目（管理员的项目介绍）
+* fun/：整活贴吧——神都服主拿高分
+* ad/：推荐项目（管理员的项目介绍）——yywd
 * nvzhuang/：群主女装（这不用我多说了吧）
 
 ****
