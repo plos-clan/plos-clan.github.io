@@ -39,7 +39,7 @@ Linuxer在此基础上希望可以让更多人参与网站搭（整）建（活�
 ## 分工细则
 目前的网站分为以下模块：
 <br>
-* index.html：首页
+* index.html：首页——wenxuanjun
 * src/：资源下载（包含pdf书籍和群主的os镜像）——Linuxer
 * jing/：逆天言论（精の传承）——Fw萌新
 * fun/：整活贴吧——神都服主拿高分
